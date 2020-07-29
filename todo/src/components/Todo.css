@@ -1,0 +1,29 @@
+.fa {
+    color:red;
+    cursor: pointer;
+    display: flex;
+    margin: auto;
+    
+}
+
+.task_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
+
+p {
+    width: 350px;
+    font-size: 15px;
+    position: relative;
+    bottom: 10px;
+    font-weight: 350;
+    font-family: cursive;
+
+}
+
+.through {
+    text-decoration: line-through ;
+}
